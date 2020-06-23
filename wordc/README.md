@@ -6,4 +6,4 @@ python wordc.py
 <Enter URL>
 <Enter Word to count>
 
-![picture]wordc/wordc.PNG
+![picture] (https://github.com/vaishali1998/Python/blob/master/wordc/wordc.PNG)
