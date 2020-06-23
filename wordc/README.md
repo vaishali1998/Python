@@ -7,4 +7,4 @@ USAGE
 3. Enter Word to count
 
 
-![picture](wordc/wordC.PNG)
+![picture](wordc/wordc.PNG)
